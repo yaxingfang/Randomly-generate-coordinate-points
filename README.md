@@ -8,7 +8,7 @@ Java Environment
 
 `RandomPoint.java` and `GenerateRandomPoints.java` are the main components.
 
-`calculate.js` is the source js code from http://www.geomidpoint.com/random/ -- Ctrl+U and then Ctrl+F to find calculate.js.
+`calculate.js` is the source js code from http://www.geomidpoint.com/random/ -- Ctrl+U and then Ctrl+F to find `calculate.js`.
 
 ## Start Project
 
