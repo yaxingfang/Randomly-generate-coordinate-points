@@ -12,7 +12,7 @@ Java Environment
 
 ## Start Project
 
-Run GenerateRandomPoints and Enter the number of coordinate-points to be generated
+Run GenerateRandomPoints and Enter the number of coordinate-points to be generated.
 
 ## More
 
